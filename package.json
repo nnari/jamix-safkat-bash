@@ -1,5 +1,5 @@
 {
-  "name": "tavastia-safka-bash",
+  "name": "jamix-safkat-cli",
   "version": "0.0.1",
   "description": "Hakee ruokalistat jamix menusta terminaaliin",
   "scripts": {
