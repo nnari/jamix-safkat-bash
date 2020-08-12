@@ -1,6 +1,6 @@
 {
   "name": "jamix-safkat-cli",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "Hakee ruokalistat jamix menusta terminaaliin",
   "scripts": {
     "start": "node ./bin/index.js",
